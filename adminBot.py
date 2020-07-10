@@ -45,4 +45,4 @@ async def unmute(ctx, member: Member):
     
     await(await ctx.send(f'unmuted')).delete(delay=3)
 
-client.run('NzMxMDk1MTc3MzAwNTQxNDcx.XwhEnQ.KeebZQwFTysBG2Ae0V1RieJt3q8') #BOT AUTH TOKEN
+client.run('**********') #BOT AUTH TOKEN
